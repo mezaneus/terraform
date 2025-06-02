@@ -4,7 +4,7 @@ variable "instance_id" {
 variable "type" {
   description = "instance type"
 }
-variable "Access_key_ID" {
+variable "Access_key" {
   description = "value for the access key of aws account"
 }
 variable "Secret_access_key" {
